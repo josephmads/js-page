@@ -1,1 +1,1 @@
-Go Here: https://josephmads.github.io/javascript-page/
+Go Here: https://josephmads.github.io/js-page/
